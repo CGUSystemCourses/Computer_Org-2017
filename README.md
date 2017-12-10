@@ -2,7 +2,7 @@
 
 ## Coming-up Lectures:
 
-- [Lecture 08: Arithmetic Logic Unit](https://github.com/CGUSystemCourses/Computer_Org-2017/tree/master/Lectures/lec08-alu)
+- [Lecture 09: Processor Datapath](https://github.com/CGUSystemCourses/Computer_Org-2017/tree/master/Lectures/lec09-datapath)
 
 ## Resources
 
