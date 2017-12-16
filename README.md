@@ -2,7 +2,7 @@
 
 ## Coming-up Lectures:
 
-- [Lecture 09: Processor Datapath](https://github.com/CGUSystemCourses/Computer_Org-2017/tree/master/Lectures/lec09-datapath)
+- [Lecture 10: Assembly Programming](https://github.com/CGUSystemCourses/Computer_Org-2017/tree/master/Lectures/lec10-asm_prog)
 
 ## Resources
 
