@@ -2,7 +2,9 @@
 
 ## Coming-up Lectures:
 
-- [Lecture 10: Assembly Programming](https://github.com/CGUSystemCourses/Computer_Org-2017/tree/master/Lectures/lec10-asm_prog)
+- [Lecture 11: CPU Control Unit](https://github.com/CGUSystemCourses/Computer_Org-2017/tree/master/Lectures/lec11-cpu_ctrl_unit)
+
+- [Term Project](https://github.com/CGUSystemCourses/Computer_Org-2017/tree/master/Lectures/term_project)
 
 ## Resources
 
